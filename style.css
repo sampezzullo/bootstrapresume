@@ -1,0 +1,55 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+h1 {
+	color: #ff6f61;
+	font-family: 'Bebas Neue', sans-serif;
+	font-size: 30px;
+	border-bottom: 3px dotted rgba(255, 111, 97, 0.5);
+	letter-spacing: 8px;
+	font-weight: bold;}
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;}
+
+body {
+	background-color:#f0f8ff;
+	font-family: 'Poppins', sans-serif;
+	color:#444;
+	font-size: 16px;
+	background-image: url("pencil.png")}
+
+a:link {
+	color:#1a73e8}
+
+a:visited {
+	color:#551a8b}
+
+a:focus {
+	outline: 2px solid #a0d6f2;
+	color: #1a73e8}
+
+a:hover {
+	color:#D3D3D3}
+
+a:active {
+	color:#a0d6f2}
+
+ul {
+	list-style-image:url('heart bullet.png')}
+
+p { 
+	line-height: 2; } 
+
+p::first-letter {
+	font-size: 2rem;
+	font-weight: bold;
+	color: #a0d6f2;}
+
+.addhighlight {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+	
